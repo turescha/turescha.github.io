@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://turescha.github.io/sitemap.html.gz
+Sitemap: https://turescha.github.io/app/sitemap.html.gz
+Sitemap: https://turescha.github.io/assets/sitemap.html.gz
+Sitemap: https://turescha.github.io/css/sitemap.html.gz
+Sitemap: https://turescha.github.io/includes/sitemap.html.gz
+Sitemap: https://turescha.github.io/item/sitemap.html.gz
+Sitemap: https://turescha.github.io/src/sitemap.html.gz
